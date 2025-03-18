@@ -1,0 +1,16 @@
+.BasicProfile_inputfield {
+  width: min(300px, 100%);
+  position: relative;
+  margin: 10px 0;
+}
+
+.BasicProfile_inputfield label {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.red {
+  color: red;
+}
+
+/* Additional styling if necessary for other elements */
